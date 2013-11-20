@@ -1,0 +1,29 @@
+{
+  "name": "express-diaochapai",
+  "version": "0.1.0",
+  "description": "An express middleware for diaochapai.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/perfectworks/express-diaochapai.git"
+  },
+  "keywords": [
+    "diaochapai",
+    "express",
+    "middleware"
+  ],
+  "author": "perfectworks",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/perfectworks/express-diaochapai/issues"
+  },
+  "devDependencies": {
+    "chai": "~1.8.1"
+  },
+  "dependencies": {
+    "diaochapai": "~1.1.0"
+  }
+}
