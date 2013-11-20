@@ -1,5 +1,7 @@
 # express-diaochapai
 
+[![Build Status](https://travis-ci.org/perfectworks/express-diaochapai.png?branch=master)](https://travis-ci.org/perfectworks/express-diaochapai)
+
 [调查派]的[expressjs]中间件.
 
 ## 例子
@@ -29,3 +31,6 @@ app.get('/lottery', survey, function (req, res) {
 ## License
 
 MIT
+
+[调查派]: http://diaochapai.com
+[expressjs]: http://expressjs.com
